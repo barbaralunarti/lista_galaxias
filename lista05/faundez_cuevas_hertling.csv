@@ -1,0 +1,125 @@
+,Column1,Object,Column3,Column4,Column5,Column6,Column7,RA,DEC,Column10
+0,1,00201,00 01 09.1,-82 38 47,O,Spher,"Faint broad ring?, broken?",00 03 37.6,-82 22 04
+1,2,00202,00 03 58.5,-83 09 02,P,Ellip,"Polar internal ring?, broad knotty external ring",00 06 20.0,-82 52 20
+2,3,00203,00 07 34.9,-82 43 36,P,Spher,"Faint ring?, nucleus in the ring",00 09 49.2,-82 26 54
+3,4,01201,00 12 36.7,-78 05 30,P,Ellip,"Faint filamentary ring, nucleus in the ring",00 14 51.7,-77 48 49
+4,5,00204,00 14 31.3,-84 36 17,O,SBa(r),Faint broad ring,00 16 18.7,-84 19 37
+5,6,00205,00 15 00.2,-83 24 48,O,Sa(R),Bright broad ring,00 16 54.6,-83 08 08
+6,7,00206,00 16 44.7,-82 51 25,O,Spher,Faint smooth ring?,00 18 38.2,-82 34 45
+7,8,01202,00 20 08.6,-81 04 42,P,SBa(r),"Warped ring, two outer spiral arms, close companion",00 22 03.8,-80 48 04
+8,9,00207,00 21 03.2,-82 38 33,P,Ellip,Faint warped ring?,00 22 48.5,-82 21 55
+9,10,01203,00 33 59.6,-80 19 21,O,SBa(r),Faint ring,00 35 35.0,-80 02 50
+10,11,01204,00 36 52.6,-78 37 01,P,Spher,"Faint ring, knots?, internal ring?, off-center nucleus, faint intruder, one prominent companion",00 38 32.7,-78 20 32
+11,12,01205,00 39 30.8,-78 44 35,O,Ellip,Ringed?,00 41 06.5,-78 28 08
+12,13,00208,00 51 28.6,-82 29 11,P,Spher,Broken faint ring?,00 52 10.8,-82 12 54
+13,14,00209,00 55 50.7,-82 40 10,O,Spindle,"Very faint ring, polar?",00 56 20.9,-82 23 57
+14,15,00210,00 57 46.3,-83 41 49,P,Spher,"Two broken spiral arms, or ring?, faint companion at 4 ring diameters",00 57 52.2,-83 25 38
+15,16,00211,00 58 38.9,-82 32 45,P,Ellip,"Tight ring?, three close companions",00 59 05.2,-82 16 35
+16,17,01303,01 07 34.1,-79 10 14,P,Spher,"Narrow warped ring, closed companions, off-center nucleus",01 08 27.0,-78 54 15
+17,18,00212,01 26 23.0,-84 58 18,P,Ellip,"Faint broken ring?, two faint external arms, close companion",01 24 27.2,-84 42 44
+18,19,00213,01 36 14.6,-85 24 04,O,SBa(r),Faint smooth ring,01 33 23.4,-85 08 46
+19,20,01304,01 40 28.5,-79 18 41,P,Ellip,"Smooth ring, off-center nucleus, interacting companion?",01 40 33.7,-79 03 33
+20,21,01401,01 54 41.5,-81 47 23,P,Sa(r),"Faint broad ring, close companion",01 53 37.3,-81 32 42
+21,22,01301,01 41 05.1,-79 30 59,O,Spher,Faint broad ring,01 41 06.5,-79 15 52,22
+22,23,01302,01 41 42.9,-79 24 33,O,Sa(r),Two tight arms forming the ring?,01 41 45.0,-79 09 28
+23,24,00302,02 18 07.3,-83 56 21,P,Spher,"Faint broad ring, Hoag",02 14 54.5,-83 42 31
+24,25,00303,02 23 42.3,-83 08 21,P,Ellip,"Ring with knots, off-center nucleus, companion",02 20 58.1,-82 54 46
+25,26,01305,02 25 49.9,-82 02 21,O,SBa(r),Broad ring,02 23 45.4,-81 48 52
+26,27,01402,02 41 38.0,-82 25 08,O,Sa(r)?,Faint tight ring?,02 38 53.1,-82 12 21
+27,28,01403,02 50 18.1,-79 26 42,O,SBa(r),Broad bright ring,02 48 52.4,-79 14 22
+28,29,00304,03 00 29.3,-82 47 53,O,Ellip?,Ring with two outer arms,02 56 56.3,-82 36 00
+29,30,01404,03 54 00.1,-82 08 20,P,Ellip,"Smooth ring, companions",03 49 47.3,-81 59 28
+30,31,00405,03 54 41.9,-85 53 35,O,SBa(r),"Faint broad ring, two blobbed nucleis?",03 44 25.6,-85 44 34
+31,32,00305,03 58 28.0,-83 58 33,O,SBa(r),Broad bright surface ring knotty two outer arms,03 52 06.3,-83 49 54
+32,33,01501,04 08 55.9,-82 28 22,O,Sa/SBa(r),Bright ring,04 04 08.5,-82 20 26
+33,34,00401,04 28 16.9,-84 53 37,P,Ellip,"Elliptical ring, off-center nucleus, companion",04 19 34.9,-84 46 49
+34,35,00402,04 53 50.5,-85 33 58,P,Spher,"Faint broken ring, off-center nucleus",04 42 51.8,-85 28 49
+35,36,01601,04 58 08.3,-81 58 50,O,Ellip,Faint smooth ring,04 53 08.4,-81 54 12
+36,37,00403,04 59 04.8,-82 19 12,P,Spher,"Internal ring?, external ring, warped?, close companion at 3 ring diameters",04 53 44.2,-82 14 37
+37,38,00503,05 05 06.9,-85 56 43,P,Ellip,"Ring in formation?, interaction?",04 52 39.1,-85 52 19
+38,39,01503,05 10 50.4,-77 21 38,O,SBa(r),Faint smooth ring or arms?,05 08 34.0,-77 18 00
+39,40,00404,05 15 50.2,-86 06 42,P,Ellip,"Faint tight to the nucleus?, off-center nucleus",05 02 32.0,-86 03 01
+40,41,01602,05 35 05.4,-78 49 23,P,Sa/Ellip,"Smooth ring, projected bright star, close companion",05 32 03.6,-78 47 28
+41,42,01603,05 35 57.6,-77 30 22,O,Ellip,Broad smooth ring companion,05 33 31.9,-77 28 32
+42,43,00504,05 38 05.7,-86 51 40,P,Ellip,"Faint warped broken ring, close companion",05 20 38.2,-86 49 26
+43,44,00505,05 39 30.3,-85 51 39,P,Ellip,"Ringed?, off-center nucleus?, two close companions",05 26 50.2,-85 49 42
+44,45,00406,05 42 36.5,-85 57 35,P,Ellip,Warped ring interacting pair filaments,05 29 32.3,-85 55 50
+45,46,01604,05 45 25.7,-82 00 13,P,Ellip,Warped ring nucleus in the ring two interacting bodies?,05 40 05.6,-81 58 58
+46,47,01605,05 51 03.7,-80 19 24,P,Interacting triplet,05 47 06.2,-80 18 36
+47,48,00506,06 23 33.3,-82 46 33,P,Ellip,"Faint broad ring, off-center nucleus",06 17 20.9,-82 48 02
+48,49,00507,06 36 04.9,-85 03 36,P,Ellip,Faint broad ring offcenter nucleus,06 25 49.4,-85 05 51
+49,50,00501,06 47 27.0,-87 26 58,O,Spher,"Faint broad ring, Hoag or PN?",06 25 05.4,-87 29 36
+50,51,00502,06 47 27.1,-87 31 55,P,Sa(r),Smooth ring or two tight arms?,06 24 14.6,-87 34 31
+51,52,00509,06 50 31.9,-85 16 54,O,Ellip,"Ringed?, Saturn?, too close to a very bright star",06 39 46.8,-85 20 10
+52,53,01701,07 31 38.4,-81 09 17,O,SBa(r),Broad smooth ring,07 27 32.6,-81 15 39
+53,54,01702,07 43 41.0,-80 29 33,P,Ellip,"Faint smooth ring?, off-center nucleus?",07 40 12.1,-80 36 44
+54,55,01703,07 49 34.7,-78 01 15,O,SBa(r),"Perturbed ring, arms outside the ring",07 47 26.5,-78 08 52
+55,56,00510,07 56 38.9,-84 03 27,O,Spindle,"Bright surface ring, polar?",07 49 40.8,-84 11 22
+56,57,00511,08 04 03.5,-82 40 14,P,Ellip,"Faint warped ring?, off-center nucleus, small companion",07 59 04.6,-82 48 41
+57,58,00512,08 12 03.4,-82 10 13,P,Ellip,"Faint external ring?, internal ring?, off-center nucleus",08 07 43.1,-82 19 11
+58,59,00513,08 13 34.0,-82 28 29,P,Ellip,"Knotted ring, off-center nucleus, close companion",08 08 58.1,-82 37 32
+59,60,01704,08 14 26.8,-79 13 27,O,Ellip,Faint smooth ring?,08 12 04.9,-79 22 38
+60,61,01705,08 15 21.4,-79 44 09,P,Ellip,"Perturbed ring, two compact interacting companions?, blobs?, knotts?",08 12 45.0,-79 53 23
+61,62,00514,08 20 15.8,-83 28 12,P,Ellip,"Warped broad ring?, interacting",08 14 41.6,-83 37 38
+62,63,01801,08 24 43.8,-77 41 32,P,SBa(r),Bright warped ring or tight arms faint external material,08 23 07.9,-77 51 21
+63,64,00601,09 05 28.7,-82 38 59,P,Spher,"Faint smooth ring, nucleus in the ring, close companion at 1 ring diameter",09 01 57.0,-82 50 59
+64,65,01802,09 17 06.1,-80 00 47,O,SBa(r),Faint smooth ring,09 15 28.5,-80 13 24
+65,66,01803,09 35 34.5,-77 59 38,O,Ellip,Faint smooth ring,09 35 00.9,-78 13 07
+66,67,01901,10 12 25.8,-82 23 01,P,Ellip,"Bright ring, interacting, off-center nucleus?, filaments",10 11 08.4,-82 37 54
+67,68,01902,10 28 28.4,-81 31 00,P,SBa(r),"Faint smooth ring, interacting?",10 28 04.8,-81 46 23
+68,69,00701,11 02 03.8,-83 09 45,P,Ellip,"Broken faint ring?, nucleus in the ring",11 02 15.5,-83 25 56
+69,70,00702,11 13 41.3,-83 59 59,P,Ellip,"Smooth ring, nucleus close to the ring",11 14 04.9,-84 16 21
+70,71,00703,11 13 51.8,-84 01 56,O,Spher,"Ringed?, Hoag type?",11 14 15.2,-84 18 19
+71,72,00704,11 14 48.3,-84 00 57,P,Ellip,"Knotted ring, off-center nucleus",11 15 14.8,-84 17 20
+72,73,00705,11 16 28.1,-82 33 14,P,Spher,"Broad warped ring, off-center nucleus, close compact companions",11 17 24.5,-82 49 39
+73,74,00706,11 41 06.3,-83 08 32,O,Sa(r),"Smooth ring, very close to bright star",11 42 55.5,-83 25 11
+74,75,00602,11 42 34.1,-85 24 15,P,Ellip,"Broad faint ring?, off-center nucleus, very small companion",11 44 05.5,-85 40 55
+75,76,00707,12 33 04.4,-83 45 57,P,Ellip,"Smooth ring, nucleus close to the ring, off-center nucleus",12 37 13.7,-84 02 28
+76,77,00708,13 22 20.8,-86 53 07,O,Spher,Faint smooth elliptical ring,13 32 52.6,-87 08 37
+77,78,00802,13 29 20.3,-84 05 31,P,Spher,"Round ring, knotted?, off-center nucleus, filaments out of the ring? two close companions",13 36 14.1,-84 20 53
+78,79,02101,13 41 34.5,-80 31 49,P,Sa/SBa(r),"Perturbed ring or two tight arms?, spiral?",13 47 06.8,-80 46 50
+79,80,02201,14 31 56.7,-79 06 20,O,SBa(r),Faint smooth ring,14 38 10.1,-79 19 22
+80,81,02202,14 34 16.6,-78 35 36,P,Ellip?,Perturbed knotted ring off-center nucleus,14 40 22.4,-78 48 32
+81,82,02203,14 57 24.4,-79 54 20,O,Spher,Extended smooth pseudo-ring? two arms?,15 04 27.4,-80 06 06
+82,83,00901,15 18 53.4,-86 22 28,O,SBa(r),Broad ring one external arm,15 35 36.6,-86 32 48
+83,84,00801,15 35 00.5,-82 39 52,O,SBa(r),Smooth ring,15 44 44.1,-82 49 28
+84,85,00803,15 51 06.3,-85 29 55,P,Sa(r),"Elliptical ring with two simetrical blobs, internal ring?",16 06 04.5,-85 38 22
+85,86,00902,16 05 08.2,-83 06 52,P,Spher,"Ringed?, warped ring?, companion",16 15 58.2,-83 14 33
+86,87,00804,16 06 13.5,-84 39 32,P,Spher,"Faint narrow ring, off-center nucleus, Saturn type?",16 19 33.2,-84 47 04
+87,88,00903,16 11 49.0,-82 24 53,O,SBa(r),"Broad ring, real companion?",16 21 58.4,-82 32 09
+88,89,00904,16 12 05.0,-82 22 10,P,Sa(r),"Filamentary broad ring, warped",16 22 11.9,-82 29 25
+89,90,02301,16 20 32.0,-78 21 17,O,SBa(r),Smooth ring,16 28 03.7,-78 28 04
+90,91,02302,16 23 31.7,-80 59 08,P,Ellip,"Knotted ring, nucleus in the ring, intruder close to the center of the ring",16 32 35.7,-81 05 40
+91,92,02303,16 24 09.5,-78 20 40,O,Ellip,Faint smooth ring or two tight arms?,16 31 42.9,-78 27 12
+92,93,00905,16 36 52.7,-84 23 30,O,Spher,"Round ring, Saturn-like object, filaments?",16 50 15.0,-84 28 58
+93,94,02304,16 46 04.8,-79 58 54,P,Ellip,"Smooth ring, one knot, off-center nucleus, companions",16 54 41.1,-80 03 54
+94,95,00906,17 15 10.2,-86 20 03,P,Ellip,"Faint ring?, off-center nucleus",17 35 01.4,-86 22 35
+95,96,02401,17 40 54.8,-79 00 58,P,Ellip,"Perturbed ring, interacting",17 49 12.5,-79 02 03
+96,97,02402,18 22 33.7,-78 52 37,O,Ellip,Faint smooth ring?,18 30 44.6,-78 50 41
+97,98,02403,18 29 54.3,-82 05 49,O,Spher,"Faint smooth ring, compact companion?",18 40 22.6,-82 03 16
+98,99,02404,18 30 42.2,-77 34 27,O,SBa(r),Smooth ring,18 38 15.4,-77 31 57
+99,100,02405,18 46 34.0,-78 57 39,P,SBa(r),Faint external ring centered internal ring,18 54 41.1,-78 53 59
+100,101,01001,18 48 49.0,-85 23 02,O,SBa(r),Broad ring,19 04 39.6,-85 18 56
+101,102,02406,18 50 20.2,-79 37 54,O,Sa/SBa(r),Faint smooth ring or tight spiral arms?,18 58 47.8,-79 33 58
+102,103,01002,19 00 17.2,-83 05 06,P,Ellip,"Faint narrow ring, off-center nucleus, close companion",19 11 36.4,-83 00 21
+103,104,01003,19 05 57.3,-84 52 47,P,Ellip,Bright ring nucleus in the ring interacting,19 20 13.5,-84 47 33
+104,105,02502,19 13 12.4,-78 32 06,O,SBa(r),Smooth ring,19 20 56.0,-78 26 35
+105,106,02503,19 25 56.1,-78 01 14,O,SBa(r),"Narrow ring, material out of the ring, close to a bright star",19 33 19.8,-77 54 52
+106,107,01004,19 37 20.9,-83 12 13,O,SBa(r),Ringed or spiral?,19 48 15.6,-83 04 58
+107,108,01005,19 40 02.2,-82 41 45,P,Ellip,"Faint narrow ring?, nucleus close to the ring",19 50 19.5,-82 34 21
+108,109,01006,19 46 29.4,-82 48 49,P,Ellip,Warped ring?,19 56 47.4,-82 41 00
+109,110,01007,19 49 42.2,-86 59 35,P,Ellip,Broken ring or tail?,20 10 13.3,-86 51 14
+110,111,02504,20 03 49.9,-78 59 54,P,Ellip,"Nucleus close to the ring, knotty ring",20 11 13.6,-78 51 04
+111,112,02601,20 16 12.4,-81 44 12,,,"Ringed or peculiar spiral?, blobbed nucleus",20 24 58.8,-81 34 35
+112,113,01008,20 21 34.9,-84 50 24,P,Ellip,"Faint narrow ring, big nucleus in the ring, knot in the ring or intruder?",20 33 50.9,-84 40 22
+113,114,02602,20 51 28.5,-79 56 03,O,Ellip,Faint smooth ring,20 58 31.6,-79 44 30
+114,115,02603,21 30 33.1,-77 41 04,P,Sa(r),Faint smooth ring,21 36 08.0,-77 27 40
+115,116,00214,21 49 46.4,-85 11 16,P,Ellip,"Faint ring, nucleus close to the ring, interacting triple (close to bright galaxy)",21 59 03.8,-84 57 00
+116,117,02701,22 21 01.8,-81 28 41,O,Sa(r),Ring or two tight arms?,22 26 34.7,-81 13 25
+117,118,02703,22 25 41.3,-81 20 50,O,Spindle,"Ringed, extended halo?",22 31 03.5,-81 05 26
+118,119,02704,22 28 06.8,-79 03 19,P,Spher,"Knotty ring, small off-center nucleus",22 32 50.6,-78 47 52
+119,120,00215,22 45 57.3,-82 21 03,P,Spher,"Tight ring, two companions",22 51 01.2,-82 05 09
+120,121,01102,22 45 32.7,-84 23 32,O/P,Ellip,Faint broad ring centered nucleus,22 51 30.5,-84 07 38
+121,122,01103,22 47 27.6,-84 23 10,O/P,Spher,Saturn-like object,22 53 20.0,-84 07 13
+122,123,00216,22 56 58.0,-84 20 21,O,Sa(r),Smooth ring,23 02 23.1,-84 04 13
+123,124,02702,23 07 37.7,-80 52 46,O,Sa(r),Smooth ring,23 11 40.9,-80 36 28
